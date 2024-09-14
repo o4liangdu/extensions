@@ -1,5 +1,13 @@
 # Spotify Player Changelog
 
+## [Generate Playlist Improvement] - 2024-09-06
+
+- Use GPT-4o mini instead of GPT-4o to make it faster.
+
+## [Add "Start DJ" Command] - 2024-09-05
+
+- Added a command to start the DJ using AppleScript, because the Spotify API doesn't support it.
+
 ## [Quicklink to Add Playing Song to Playlist] - 2024-08-29
 
 - Adds an action to create a quicklink to add the currently playing song to a specific playlist.
